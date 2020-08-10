@@ -1,0 +1,16 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d personal-assignment"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://charlespreshy.github.io/my-photo-gallery",
+  "dependencies":{
+    "gh-pages":"^3.1.0"
+  }
+}
