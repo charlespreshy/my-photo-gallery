@@ -4,7 +4,7 @@
   "description": "This is a display of beautiful memories captured in pictures of my time spent during my service year.",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d personal-assignment"
+    "deploy": "gh-pages -d html_file"
   },
   "keywords": [],
   "author": "",
