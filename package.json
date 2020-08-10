@@ -1,7 +1,7 @@
 {
   "name": "user",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a display of beautiful memories captured in pictures of my time spent during my service year.",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d personal-assignment"
@@ -9,8 +9,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://charlespreshy.github.io/my-photo-gallery",
-  "dependencies":{
-    "gh-pages":"^3.1.0"
+  "homepage": "https://charlespreshy.github.io/my-photo-gallery",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlespreshy/my-photo-gallery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/charlespreshy/my-photo-gallery/issues"
   }
 }
